@@ -1,0 +1,9 @@
+{
+    "csharp.testsCodeLens.enabled": false,
+    "omnisharp.autoStart": false,
+    "omnisharp.useEditorFormattingSettings": false,
+    "razor.format.enable": false,
+    "csharp.suppressHiddenDiagnostics": false,
+    "csharp.referencesCodeLens.enabled": false,
+    "csharp.format.enable": false
+}
